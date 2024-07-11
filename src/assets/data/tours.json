@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Sigiriya Rock Fortress",
+    "city": "Sigiriya",
+    "address": "Sigiriya, Sri Lanka",
+    "distance": 300,
+    "price": 50,
+    "maxGroupSize": 15,
+    "desc": "Climb the ancient rock fortress and enjoy panoramic views.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Yala National Park Safari",
+    "city": "Yala",
+    "address": "Yala, Sri Lanka",
+    "distance": 400,
+    "price": 120,
+    "maxGroupSize": 10,
+    "desc": "Experience a thrilling safari and spot wildlife in Yala National Park.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Temple of the Tooth Relic",
+    "city": "Kandy",
+    "address": "Kandy, Sri Lanka",
+    "distance": 100,
+    "price": 30,
+    "maxGroupSize": 10,
+    "desc": "Visit the sacred temple that houses the relic of the tooth of Buddha.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Ella Rock Hike",
+    "city": "Ella",
+    "address": "Ella, Sri Lanka",
+    "distance": 200,
+    "price": 40,
+    "maxGroupSize": 8,
+    "desc": "Enjoy a scenic hike to Ella Rock and witness breathtaking views.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Galle Fort Tour",
+    "city": "Galle",
+    "address": "Galle, Sri Lanka",
+    "distance": 120,
+    "price": 25,
+    "maxGroupSize": 20,
+    "desc": "Explore the historic Galle Fort, a UNESCO World Heritage site.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mirissa Beach",
+    "city": "Mirissa",
+    "address": "Mirissa, Sri Lanka",
+    "distance": 180,
+    "price": 70,
+    "maxGroupSize": 15,
+    "desc": "Go on a whale watching tour in Mirissa and see these majestic creatures up close.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Ambuluwawa Tower",
+    "city": "Gampola",
+    "address": "Gampola, Sri Lanka",
+    "distance": 500,
+    "price": 22,
+    "maxGroupSize": 20,
+    "desc": "Climb the unique Ambuluwawa Tower and enjoy panoramic views of the surrounding landscape.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nine Arch Bridge",
+    "city": "Ella",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 15,
+    "desc": "Visit the iconic Nine Arch Bridge in Ella and witness its architectural marvel.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "city": "Sylhet",
+    "address": "Ella, Sri Lanka",
+    "distance": 200,
+    "price": 50,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  }
+]
